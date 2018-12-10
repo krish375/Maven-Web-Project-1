@@ -79,7 +79,7 @@
 		</dependency>
   </dependencies>
 
-	<distributionManagement>
+	<!--<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
@@ -89,7 +89,7 @@
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://ec2-18-224-246-45.us-east-2.compute.amazonaws.com:8081/repository/flipkart-snapshot/</url>
-	    </snapshotRepository>
+	    </snapshotRepository> -->
 </distributionManagement>
 	
 	
