@@ -82,13 +82,13 @@
 	<distributionManagement>
 	<!--    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-18-224-246-45.us-east-2.compute.amazonaws.com:8081/repository/flipkart-release/</url>
+	      <name>web app Releases Nexus Repository</name>
+	      <url>http://18.139.209.7:8081/repository/webapp-release/</url>
 	    </repository> -->
 	    <snapshotRepository> 
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-18-224-246-45.us-east-2.compute.amazonaws.com:8081/repository/flipkart-snapshot/</url>
+	      <name>web app Snapshot Nexus Repository </name>
+	      <url>http://18.139.209.7:8081/repository/webapp-snapshot/</url>
 	    </snapshotRepository> 
 </distributionManagement>
 	
